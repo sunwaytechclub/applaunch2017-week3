@@ -5,6 +5,7 @@
   * `chuck_norris`
   * `giphy`
   * `test`
+  * `your_turn`
 * Session 2: AJAX (POST)
   * `test`
 
