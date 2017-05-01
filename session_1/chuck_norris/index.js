@@ -1,19 +1,16 @@
 // API EndPoint
-var url =  ""
+var url =  "";
 
-// Get Ordered List Element 
+// Get Ordered List Element
+var ol = 
+
+// Create Request
+var request = 
+request.open();
+
+request.onload = function(){
+  // Handle Response
+}
 
 
-
-// GET Request
-axios.get(url)
-  .then(function(response) {
-    // Get Reponse Data here
-
-    // Loop through data and create list item
-    // , and append it to order List
-
-  })
-  .catch(function(error) {
-    // Log Error 
-  })
+// Send Request

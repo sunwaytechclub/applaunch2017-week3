@@ -1,12 +1,11 @@
 # App Launch 2017
 
 ## Week 3 Resources
-* Session 1: AJAX (GET)
+* Session 1: AJAX & APIs (Part 1)
   * `chuck_norris`
-  * `giphy`
-  * `test`
   * `your_turn`
-* Session 2: AJAX (POST)
+* Session 2: AJAX & APIs (Part 2)
+  * `giphy`
   * `test`
 
 ## How to Download?
